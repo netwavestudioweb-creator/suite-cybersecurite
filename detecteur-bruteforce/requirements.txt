@@ -1,0 +1,2 @@
+# Détecteur de brute-force — aucune dépendance externe.
+# Bibliothèque standard de Python 3.8+ uniquement.

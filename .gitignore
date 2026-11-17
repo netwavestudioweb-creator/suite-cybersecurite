@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.passwd_hash
+build/
+dist/
+*.exe
+*.spec
+.venv/
+venv/
+env/

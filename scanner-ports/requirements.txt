@@ -1,0 +1,2 @@
+# Scanner de ports TCP — aucune dépendance externe.
+# Le projet utilise uniquement la bibliothèque standard de Python 3.8+.

@@ -1,0 +1,4 @@
+# SecurePassGen
+# L'interface console (main.py) n'a besoin d'AUCUNE dépendance externe.
+# L'interface web (app.py) nécessite Flask :
+Flask>=3.0
